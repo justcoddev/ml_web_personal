@@ -1,0 +1,16 @@
+* {
+  background-color: #fcfcfc;
+
+}
+
+.navbar {
+  background-color: #1D0C40;
+  display: flex;
+
+}
+
+ul, li {
+  position: static;
+  display: inline;
+  padding: 12px;
+}
